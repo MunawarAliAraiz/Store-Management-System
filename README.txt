@@ -1,0 +1,6 @@
+PROGRAM WILL NOT RUN UNTIL Admin.txt FILE IS NOT CREATED.
+Admin.txt File contain admin username & password i.e. admin & admin 123 Respectively.
+ALL THE FILES ARE CREATED
+AND SOME OF THE DATA IS ALSO IN THE FILE.
+BUT IF YOU DELETE THESE FILES PROGRAM WILL AUTOMATICALLY CREATE THESE FILES WHEN YOU EXIT FROM THE PROGRAM.
+BUT THE Admin.txt file must not be deleted to run the program...
